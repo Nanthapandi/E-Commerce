@@ -43,4 +43,4 @@ Open `index.html` in your browser (or serve the folder with a static server) to 
 
 ## Contact
 Maintainer: **Nanthapandi**  
-(Replace with your email / GitHub profile link.)
+
