@@ -4,11 +4,6 @@
 
 ---
 
-## Demo
-Open `index.html` in your browser (or serve the folder with a static server) to see the site.
-
----
-
 ## Features
 - Home page with hero, new arrivals and sections.
 - Collection page with client-side search (type to filter product boxes).
